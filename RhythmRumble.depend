@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1711032818 source:d:\minhc++\rhythmrumble\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<bits/stdc++.h>
+
